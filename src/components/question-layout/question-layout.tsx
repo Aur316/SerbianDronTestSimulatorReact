@@ -24,7 +24,7 @@ export const QuestionLayout = ({
   onRestart,
 }: PropsWithChildren<QuestionLayoutProps>) => {
   return (
-    <div className="mx-auto flex min-h-screen w-full max-w-3xl flex-col gap-6 p-4 md:p-8">
+    <div className="mx-auto flex min-h-0 w-full max-w-3xl flex-1 flex-col gap-6 p-4 md:p-8">
       <CustomProgressBar
         currentIndex={currentIndex}
         total={total}

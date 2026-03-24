@@ -27,7 +27,7 @@ export const Questions = () => {
 
   if (!questions.length) {
     return (
-      <div className="text-muted-foreground flex min-h-screen items-center justify-center p-8">
+      <div className="text-muted-foreground flex min-h-0 flex-1 flex-col items-center justify-center p-8">
         Nema učitanih pitanja.
       </div>
     )
@@ -37,7 +37,7 @@ export const Questions = () => {
 
   if (atEnd) {
     return (
-      <div className="mx-auto flex min-h-screen max-w-md flex-col items-center justify-center gap-6 p-8 text-center">
+      <div className="mx-auto flex min-h-0 max-w-md flex-1 flex-col items-center justify-center gap-6 p-8 text-center">
         <div className="flex size-20 items-center justify-center rounded-full border border-emerald-500/30 bg-emerald-500/10 text-4xl">
           ✓
         </div>
