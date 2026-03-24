@@ -1,4 +1,4 @@
-import { Questions } from "./components/questions/questions"
+import { Questions } from "@/components/questions/questions"
 
 export default function App() {
   return <Questions />

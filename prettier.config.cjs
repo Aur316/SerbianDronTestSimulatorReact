@@ -6,12 +6,11 @@ module.exports = {
   singleQuote: false,
   semi: false,
   importOrder: [
-    "^react$", // first React
-    "^next", // then next
-    "^@?\\w", // then third-party packages (node_modules)
-    "^@components", // your alias imports
-    "^@utils", // other alias imports
-    "^[./]", // relatív imports
+    "^react$",
+    "^next",
+    "^@?\\w",
+    "^@/",
+    "^[./]",
   ],
   importOrderSeparation: true,
   importOrderSortSpecifiers: true,

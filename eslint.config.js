@@ -1,6 +1,7 @@
 import js from "@eslint/js";
 import pluginQuery from "@tanstack/eslint-plugin-query";
 import eslintConfigPrettier from "eslint-config-prettier";
+import noRelativeImportPaths from "eslint-plugin-no-relative-import-paths";
 import reactHooks from "eslint-plugin-react-hooks";
 import reactRefresh from "eslint-plugin-react-refresh";
 import globals from "globals";
@@ -41,6 +42,7 @@ export default tseslint.config(
       },
     },
     plugins: {
+      "no-relative-import-paths": noRelativeImportPaths,
       "react-hooks": reactHooks,
       "react-refresh": reactRefresh,
     },
@@ -79,6 +81,10 @@ export default tseslint.config(
       ],
       // General rules
       "no-console": ["warn", { allow: ["warn", "error"] }],
+      "no-relative-import-paths/no-relative-import-paths": [
+        "error",
+        { allowSameFolder: false, rootDir: "src", prefix: "@" },
+      ],
       "prefer-const": "error",
       "no-var": "error",
       // Formatting rules
