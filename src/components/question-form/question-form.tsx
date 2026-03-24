@@ -75,10 +75,12 @@ export const QuestionForm = forwardRef<QuestionFormHandle, QuestionFormProps>(
     }))
 
     return (
-      <Card>
-        <CardHeader>
-          <CardTitle className="text-base">Pitanje</CardTitle>
-          <CardDescription className="text-foreground pt-2 text-base leading-relaxed font-normal">
+      <Card className="border-border/60 shadow-xl shadow-black/30">
+        <CardHeader className="pb-2">
+          <CardTitle className="text-xs font-semibold tracking-widest text-primary/70 uppercase">
+            Pitanje
+          </CardTitle>
+          <CardDescription className="text-foreground pt-1 text-base leading-relaxed font-normal">
             {question.question}
           </CardDescription>
         </CardHeader>
@@ -90,23 +92,31 @@ export const QuestionForm = forwardRef<QuestionFormHandle, QuestionFormProps>(
                 name="selected"
                 render={({ field }) => (
                   <FormItem>
-                    <div className="space-y-4">
+                    <div className="space-y-2">
                       {question.answers.map((ans, idx) => {
                         const id = `answer-${idx}`
+                        const isChecked = field.value[idx] ?? false
                         return (
-                          <div
+                          <label
                             key={idx}
-                            className="flex flex-row items-start gap-3 rounded-lg border border-transparent p-2 hover:bg-muted/50"
+                            htmlFor={id}
+                            className={[
+                              "flex cursor-pointer flex-row items-start gap-3 rounded-lg border p-3 transition-all duration-150",
+                              isChecked
+                                ? "border-primary/60 bg-primary/10 shadow-sm shadow-primary/10"
+                                : "border-border/50 bg-muted/20 hover:border-border hover:bg-muted/50",
+                            ].join(" ")}
                           >
                             <Checkbox
                               id={id}
-                              checked={field.value[idx] ?? false}
+                              checked={isChecked}
                               onCheckedChange={(checked) => {
                                 setCorrectFeedback(false)
                                 const next = [...field.value]
                                 next[idx] = checked === true
                                 field.onChange(next)
                               }}
+                              className="mt-0.5"
                             />
                             <Label
                               htmlFor={id}
@@ -114,15 +124,18 @@ export const QuestionForm = forwardRef<QuestionFormHandle, QuestionFormProps>(
                             >
                               {ans.answer}
                             </Label>
-                          </div>
+                          </label>
                         )
                       })}
                     </div>
                     <FormMessage />
                     {correctFeedback ? (
-                      <p className="text-sm font-medium text-emerald-600 dark:text-emerald-400">
-                        Tačno!
-                      </p>
+                      <div className="flex items-center gap-2 rounded-lg border border-emerald-500/30 bg-emerald-500/10 px-3 py-2">
+                        <span className="text-emerald-400 text-lg">✓</span>
+                        <p className="text-sm font-medium text-emerald-400">
+                          Tačno!
+                        </p>
+                      </div>
                     ) : null}
                   </FormItem>
                 )}

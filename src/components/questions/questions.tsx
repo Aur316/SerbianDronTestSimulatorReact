@@ -28,8 +28,14 @@ export const Questions = () => {
   if (atEnd) {
     return (
       <div className="mx-auto flex min-h-screen max-w-md flex-col items-center justify-center gap-6 p-8 text-center">
-        <p className="text-lg font-medium">Završili ste sva pitanja.</p>
-        <Button type="button" onClick={() => setIndex(0)}>
+        <div className="flex size-20 items-center justify-center rounded-full border border-emerald-500/30 bg-emerald-500/10 text-4xl">
+          ✓
+        </div>
+        <div className="space-y-2">
+          <p className="text-2xl font-semibold text-foreground">Čestitamo!</p>
+          <p className="text-muted-foreground">Završili ste sva pitanja.</p>
+        </div>
+        <Button type="button" onClick={() => setIndex(0)} size="lg" className="mt-2">
           Počni iznova
         </Button>
       </div>
