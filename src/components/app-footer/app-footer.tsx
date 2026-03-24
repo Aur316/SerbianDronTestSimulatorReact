@@ -7,9 +7,9 @@ export const AppFooter = () => {
       <div className="mx-auto flex w-full max-w-3xl flex-col items-center gap-4 px-4 md:px-8">
         <p className="text-muted-foreground max-w-xl text-center text-xs leading-relaxed md:text-sm">
           Za dodatne informacije posetite sajt{" "}
-          <Link href={LOMINGO_INFO_URL}>lomingo.rs</Link>. Izvorni kod
-          aplikacije je javno dostupan (open source) i možete ga pregledati na
-          sledećem <Link href={SOURCE_CODE_URL}>linku</Link>.
+          <Link href={LOMINGO_INFO_URL}>LOMINGO</Link>. Izvorni kod aplikacije
+          je javno dostupan (open source) i možete ga pregledati na sledećem{" "}
+          <Link href={SOURCE_CODE_URL}>linku</Link>.
         </p>
       </div>
     </footer>
