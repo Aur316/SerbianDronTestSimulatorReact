@@ -1,0 +1,3865 @@
+{
+  "questions": [
+    {
+      "question": "Definicija bespilotnog vazduhoplova je:",
+      "answers": [
+        {
+          "answer": "Bespilotni vazduhoplov je vazduhoplov čija se posada ne nalazi u vazduhoplovu, kojim se upravlja daljinski ili čiji je let autonoman;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Vazduhoplov čiji let nije kontrolisan od strane računara koji se nalazi u vazduhoplovu;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Vazduhoplov koji je lakši od vazduha;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Daljinski upravljan vazduhoplov;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Propis kojim se detaljno uređuje korišćenje bespilotnih vazduhoplova je:",
+      "answers": [
+        {
+          "answer": "Pravilnik o bespilotnim vazduhoplovima;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Zakon o vazdušnom saobraćaju;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Zakon o obaveznom osiguranju u Saobraćaju;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Uredba o upravljanju vazdušnim prostorom;",
+          "is_answer_correct": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Pravilnik o bespilotnim vazduhoplovima se ne odnosi na:",
+      "answers": [
+        {
+          "answer": "Bespilotne vazduhoplove čija je maksimalna masa na poletanju (MTOM) manja od 0,25 kg, pod uslovom da njihova maksimalna brzina ne prelazi 19 m/s i da ne mogu da postignu kinetičku energiju veću od 80 J;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotne vazduhoplove čija je maksimalna masa na poletanju (MTOM) veća od 150 kg;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotne vazduhoplove koji se koriste za operativne potrebe organa nadležnih za poslove odbrane, unutrašnjih poslova i carine;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Letenje bespilotnih vazduhoplova u zatvorenom prostoru;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Letenje u zatvorenom i ograđenom prostoru;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Za bezbednost lica prilikom leta bespilotnog vazduhoplova u zatvorenom prostoru nije odgovoran:",
+      "answers": [
+        {
+          "answer": "Direktorat civilnog vazduhoplovstva Republike Srbije;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Operater bespilotnog vazduhoplova i MUP Republike Srbije;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "MUP Republike Srbije i organizator manifestacije;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Organizator manifestacije u zatvorenom prostoru;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "6) Organ nadležan za odobravanje snimanja (video, filmska i ostala snimanja) iz vazdušnog prostora\nje:",
+      "answers": [
+        {
+          "answer": "Ministarstvo odbrane Republike Srbije;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Ministarstvo unutrašnjih poslova Republike Srbije;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Ministarstvo odbrani i Ministarstvo unutrašnjih poslova Republike Srbije;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Direktorat civilnog vazduhoplovstva Republike Srbije;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Vazduhoplovni model je:",
+      "answers": [
+        {
+          "answer": "Bespilotni vazduhoplov operativne mase do 20 kg, ne računajući gorivo za let, koji se koristi u sportske ili rekreativne svrhe, a na koji se ne primenjuju odredbe Konvencije o međunarodnom civilnom vazduhoplovstvu, Čikago 1944. Godine;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplov operativne mase do 50 kg, ne računajući gorivo za let, koji se koristi u sportske ili rekreativne svrhe, a na koji se ne primenjuju odredbe Konvencije o međunarodnom civilnom vazduhoplovstvu, Čikago 1944. Godine;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplov operativne mase do 20 kg, ne računajući gorivo za let, koji se koristi u sportske ili rekreativne svrhe, na koji se primenjuju odredbe Konvencije o međunarodnom civilnom vazduhoplovstvu, Čikago 1944. Godine;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplov na koji se primenjuju odredbe Konvencije o međunarodnom civilnom vazduhoplovstvu, Čikago 1944. Godine;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Vazduhoplovni model je bespilotni vazduhoplov:",
+      "answers": [
+        {
+          "answer": "Mase do 20 kg, ne računajući gorivo za let,",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Mase do 20 kg, računajući gorivo za let",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Koji se koristi u sportske ili rekreativne svrhe,",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Koji se koristi u komercijalne svrhe,",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Na koji se ne primenjuju odredbe konvencije o međunarodnom civilnom vazduhoplovstvu, Čikago 1944. Godine,",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Na koji se primenjuju odredbe konvencije o međunarodnom civilnom vazduhoplovstvu, Čikago 1944. Godine,",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Mase do 30 kg, ne računajući gorivo za let,",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Mase do 30 kg, računajući gorivo za let.",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Šta predstavlja “Let u vidnom polju\"?",
+      "answers": [
+        {
+          "answer": "Let bespilotnog vazduhoplova pri kojem je lice koje upravlja bespilotnim vazduhoplovom\nneprekidno u vizuelnom kontaktu sa bespilotnim vazduhoplovom, bez korišćenja spoljnih\noptičkih ili elektronskih pomagala, pri čemu se sredstva za korekciju vida (naočare ili kontaktna\nsočiva) ne smatraju spoljnim pomagalom;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Let bespilotnog vazduhoplova pri kojem lice koje upravlja bespilotnim vazduhoplovom nije u\nvizuelnom kontaktu sa bespilotnim vazduhoplovom;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Let bespilotnog vazduhoplova pri kojem je lice koje upravlja bespilotnim vazduhoplovom\nneprekidno u vizuelnom kontaktu sa bespilotnim vazduhoplovom, korišćenjem spoljnih optičkih\nili elektronskih pomagala, pri čemu se sredstva za korekciju vida (naočare ili kontaktna sočiva)\nne smatraju spoljnim pomagalom;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Let bespilotnog vazduhoplova pri kojem je lice koje upravlja bespilotnim vazduhoplovom\nneprekidno u vizuelnom kontaktu sa bespilotnim vazduhoplovom, bez korišćenja spoljnih\noptičkih ili elektronskih pomagala, pri čemu se sredstva za korekciju vida (naočare ili kontaktna\nsočiva) smatraju spoljnim pomagalom;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "\"Let u vidnom polju\" je let bespilotnog vazduhoplova pri kojem:",
+      "answers": [
+        {
+          "answer": "Lice koje upravlja bespilotnim vazduhoplovom ne mora biti u vizuelnom kontaktu sa\nvazduhoplovom ako postoje instalirane kamere koje daju sliku o položaju vazduhoplova;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Je lice koje upravlja bespilotnim vazduhoplovom neprekidno u vizuelnom kontaktu sa\nbespilotnim vazduhoplovom;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Bez korišćenja spoljnih optičkih pomagala, pri čemu se sredstva za korekciju vida (naočare ili\nkontaktna sočiva) ne smatraju spoljnim pomagalom;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Sa korišćenjem spoljnih optičkih pomagala, pri čemu se sredstva za korekciju vida (naočare ili\nkontaktna sočiva) ne smatraju spoljnim pomagalom;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Sa korišćenjem elektronskih pomagala;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bez korišćenja elektronskih pomagala;",
+          "is_answer_correct": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Lice koje upravlja bespilotnim vazduhoplovom može biti:",
+      "answers": [
+        {
+          "answer": "Operater na zemlji, odnosno fizičko lice koje neposredno upravlja sistemom bespilotnog\nvazduhoplova, kontroliše njegov let, programira sistem upravljanja bespilotnim vazduhoplovom\ni koje je odgovorno za njegov let;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Operater na zemlji, odnosno pravno lice koje neposredno upravlja sistemom bespilotnog\nvazduhoplova putem optičkih uređaja, kontroliše njegov let, programira sistem upravljanja\nbespilotnim vazduhoplovom i koje je odgovorno za njegov let;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Operater u vazduhu, odnosno fizičko lice koje neposredno upravlja sistemom bespilotnog\nvazduhoplova putem optičkih uređaja, kontroliše njegov let, programira sistem upravljanja\nbespilotnim vazduhoplovom i koje je odgovorno za njegov let;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Operater na zemlji, odnosno fizičko lice koje nema uticaj na let bespilotnog vazduhoplova ali\nprogramira sistem upravljanja bespilotnim vazduhoplovom i koje je odgovorno za njegov let;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Rejon I leta bespilotnog vazduhoplova je:",
+      "answers": [
+        {
+          "answer": "Deo vazdušnog prostora u kome bespilotni vazduhoplov leti, a koji se nalazi iznad neizgrađenog\ni nenaseljenog područja u kome nema ljudi, osim lica koje upravlja bespilotnim vazduhoplovom;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Deo vazdušnog prostora u kome bespilotni vazduhoplov leti, a koji se nalazi iznad izgrađenog,\nali nenaseljenog područja u kome postoje građevinski objekti koji nisu namenjeni za život ljudi,\nu kome je moguće povremeno kraće zadržavanje ljudi;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Deo vazdušnog prostora u kome bespilotni vazduhoplov leti, a koji se nalazi iznad naseljenog\npodručja, u kome postoje građevinski objekti namenjeni za stalni život i boravak ljudi;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Deo vazdušnog prostora u kome bespilotni vazduhoplov leti, a koji se nalazi iznad gusto\nnaseljenog područja, urbane ili centralne gradske zone, kao i svih područja na kojima se okuplja\nveliki broj ljudi;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Rejon II leta bespilotnog vazduhoplova je:",
+      "answers": [
+        {
+          "answer": "Deo vazdušnog prostora u kome bespilotni vazduhoplov leti, a koji se nalazi iznad izgrađenog,\nali nenaseljenog područja u kome postoje građevinski objekti koji nisu namenjeni za život ljudi,\nu kome je moguće povremeno kraće zadržavanje ljudi;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Deo vazdušnog prostora u kome bespilotni vazduhoplov leti, a koji se nalazi iznad neizgrađenog\ni nenaseljenog područja u kome nema ljudi, osim lica koje upravlja bespilotnim vazduhoplovom;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Deo vazdušnog prostora u kome bespilotni vazduhoplov leti, a koji se nalazi iznad naseljenog\npodručja, u kome postoje građevinski objekti namenjeni za stalni život i boravak ljudi;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Deo vazdušnog prostora u kome bespilotni vazduhoplov leti, a koji se nalazi iznad gusto\nnaseljenog područja, urbane ili centralne gradske zone, kao i svih područja na kojima se okuplja\nveliki broj ljudi;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Rejon III leta bespilotnog vazduhoplova je:",
+      "answers": [
+        {
+          "answer": "Deo vazdušnog prostora u kome bespilotni vazduhoplov leti, a koji se nalazi iznad naseljenog\npodručja, u kome postoje građevinski objekti namenjeni za stalni život i boravak ljudi;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Deo vazdušnog prostora u kome bespilotni vazduhoplov leti, a koji se nalazi iznad izgrađenog,\nali nenaseljenog područja u kome postoje građevinski objekti koji nisu namenjeni za život ljudi,\nu kome je moguće povremeno kraće zadržavanje ljudi;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Deo vazdušnog prostora u kome bespilotni vazduhoplov leti, a koji se nalazi iznad neizgrađenog\ni nenaseljenog područja u kome nema ljudi, osim lica koje upravlja bespilotnim vazduhoplovom;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Deo vazdušnog prostora u kome bespilotni vazduhoplov leti, a koji se nalazi iznad gusto\nnaseljenog područja, urbane ili centralne gradske zone, kao i svih područja na kojima se okuplja\nveliki broj ljudi;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Rejon IV leta bespilotnog vazduhoplova je:",
+      "answers": [
+        {
+          "answer": "Deo vazdušnog prostora u kome bespilotni vazduhoplov leti, a koji se nalazi iznad gusto\nnaseljenog područja, urbane ili centralne gradske zone, kao i svih područja na kojima se okuplja\nveliki broj ljudi;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Deo vazdušnog prostora u kome bespilotni vazduhoplov leti, a koji se nalazi iznad neizgrađenog\ni nenaseljenog područja u kome nema ljudi, osim lica koje upravlja bespilotnim vazduhoplovom;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Deo vazdušnog prostora u kome bespilotni vazduhoplov leti, a koji se nalazi iznad izgrađenog,\nali nenaseljenog područja u kome postoje građevinski objekti koji nisu namenjeni za život ljudi,\nu kome je moguće povremeno kraće zadržavanje ljudi;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Deo vazdušnog prostora u kome bespilotni vazduhoplov leti, a koji se nalazi iznad naseljenog\npodručja, u kome postoje građevinski objekti namenjeni za stalni život i boravak ljudi;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Definicija \"deo vazdušnog prostora u kome bespilotni vazduhoplov leti, a koji se nalazi iznad\nneizgrađenog i nenaseljenog područja u kome nema ljudi, osim lica koje upravlja bespilotnim\nvazduhoplovom\" predstavlja:",
+      "answers": [
+        {
+          "answer": "Rejon I;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Rejon II;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Rejon III;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Rejon IV;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Definicija \"deo vazdušnog prostora u kome bespilotni vazduhoplov leti, a koji se nalazi iznad\nizgrađenog, ali nenaseljenog područja u kome postoje građevinski objekti koji nisu namenjeni za život ljudi,\nu kome je moguće povremeno kraće zadržavanje ljudi\" predstavlja:",
+      "answers": [
+        {
+          "answer": "Rejon II;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Rejon III;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Rejon I;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Rejon IV;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Definicija \"deo vazdušnog prostora u kome bespilotni vazduhoplov leti, a koji se nalazi iznad\nnaseljenog područja, u kome postoje građevinski objekti namenjeni za stalni život i boravak lјudi\"\npredstavlja:",
+      "answers": [
+        {
+          "answer": "Rejon III;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Rejon II;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Rejon IV;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Rejon I;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Definicije \"deo vazdušnog prostora u kome bespilotni vazduhoplov leti, a koji se nalazi iznad gusto\nnaseljenog područja, urbane ili centralne gradske zone, kao i svih područja na kojima se okuplja veliki broj\nljudi\" predstavlja:",
+      "answers": [
+        {
+          "answer": "Rejon IV;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Rejon II;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Rejon I;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Rejon III;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Šta predstavlja \"sistem bespilotnog vazduhoplova\" ili UAS\"?",
+      "answers": [
+        {
+          "answer": "Je skup elemenata koji omogućavaju let bespilotnog vazduhoplova, koji čine bespilotni\nvazduhoplov, komponente neophodne za upravljanje ili programiranje leta i komponente\nneophodne za kontrolisanje leta bespilotnog vazduhoplova;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Je skup elemenata koji omogućavaju let bespilotnog vazduhoplova, koji čine bespilotni\nvazduhoplov i komponente neophodne za upravljanje ili programiranje leta;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Je skup elemenata koji omogućavaju let bespilotnog vazduhoplova, odnosno komponente\nneophodne za upravljanje ili programiranje leta;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Je skup elemenata koji omogućavaju let bespilotnog vazduhoplova, koji čine bespilotni\nvazduhoplov i komponente neophodne za kontrolisanje leta bespilotnog vazduhoplova;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Šta predstavlja skraćenica ARP (Aerodrome Reference Point)?",
+      "answers": [
+        {
+          "answer": "Referentnu tačku aerodroma;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Referentnu tačku aerodromske pristanište zgrade;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Referentnu tačku poletno-sletne staze;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Polovinu rastojanja između kontrolnog tornja i PSS;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Šta od sledećeg najtačnije opisuje referentna tačku aerodroma?",
+      "answers": [
+        {
+          "answer": "Određeni geografski položaj aerodroma, izražen u stepenima, minutima i sekundama geografske\nširine i dužine, pri čemu se kao Referentni geodetski sistem koristi Svetski geodetski sistem -\n1984 (WGS-84);",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Određeni geografski položaj radio-navigacionog sredstva (VOR / DME ili NDB);",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Određeni geografski položaj poletno-sletne staze;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Tačku koja se nalazi na polovini rastojanja između kontrolnog tornja i PSS;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Šta predstavlja skraćenica WGS-84?",
+      "answers": [
+        {
+          "answer": "Svetski geodetski sistem - 1984 (WGS-84);",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Svetski geografski sistem - 1984 (WGS-84);",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "84° Zapadne geografske dužine;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "84° Istočne geografske dužine;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "U kom dokumentu se publikuju podaci o aerodromima i referentnoj tački aerodroma?",
+      "answers": [
+        {
+          "answer": "AIP;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "AIC;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Zakonu o vazdušnom saobraćaj;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Pravilniku o bespilotnim vazduhoplovima;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Ko je operater bespilotnog vazduhoplova?",
+      "answers": [
+        {
+          "answer": "Operater bespilotnog vazduhoplova je fizičko lice koje neposredno upravlja sistemom\nbespilotnog vazduhoplova, kontroliše njegov let, programira sistem upravljanja bespilotnim\nvazduhoplovom i koje je odgovorno za njegov let;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Svako fizičko lice koje neposredno koristi ili namerava da koristi jedan ili više bespilotnih\nvazduhoplova ili sistema bespilotnih vazduhoplova;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Samo fizičko lice koje koristi ili namerava da koristi jedan ili više bespilotnih vazduhoplova ili\nsistema bespilotnih vazduhoplova;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Samo pravno lice koje koristi ili namerava da koristi jedan ili više bespilotnih vazduhoplova ili\nsistema bespilotnih vazduhoplova;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Prema nameni bespilotni vazduhoplovi se mogu koristiti u:",
+      "answers": [
+        {
+          "answer": "Privredne svrhe;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Naučne i obrazovne svrhe;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Sportske i druge svrhe;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Komercijalne i / ili nekomercijalne svrhe;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Na koji način je moguće koristiti bespilotne vazduhoplove?",
+      "answers": [
+        {
+          "answer": "Privredne, naučne obrazovne i druge svrhe tako da ne ugrožavaju bezbednost vazdušnog\nsaobraćaja;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Komercijalne, sportske i rekreativne svrhe tako da ne ugrožavaju život i zdravlje građana na\nzemlji;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Privredne i rekreativne svrhe na bezbedan način;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Privredne, naučne obrazovne i druge svrhe tako da ne ugrožavaju bezbednost građana na zemlji\ni njihovu imovinu;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Bespilotni vazduhoplovi se razvrstavaju prema;",
+      "answers": [
+        {
+          "answer": "Maksimalnoj masi na poletanju;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Operativnoj masi;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Operativnoj masi i performansama;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Performansama;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Na koliko kategorija se bespilotni vazduhoplovi razvrstavaju prema maksimalnoj masi na\npoletanju?",
+      "answers": [
+        {
+          "answer": "4 kategorije;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "6 kategorija;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "2 kategorije;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "4 kategorije i 2 pod kategorije (u zavisnosti od vrste vazduhoplova);",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Kategorija 1 bespilotnih vazduhoplova obuhvata:",
+      "answers": [
+        {
+          "answer": "Bespilotne vazduhoplove čija je maksimalna masa na poletanju manja od 0,9 kg;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotne vazduhoplove čija je operativna masa manja od 0,5 kg, sa maksimalnom visinom leta\ndo 50 m, maksimalnom brzinom leta do 30 m/s i maksimalnim doletom do 100 m;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotne vazduhoplove čija je maksimalna masa na poletanju do 5 kg uključujući 5 kg;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotne vazduhoplove čija je operativna masa manja od 0,5 kg, sa maksimalnom visinom leta\ndo 50 m, maksimalnom brzinom leta do 10 m/s i maksimalnim doletom do 130 m;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Maksimalni dolet bespilotnog vazduhoplova kategorije 1 je:",
+      "answers": [
+        {
+          "answer": "Ograničen Pravilnikom na 500 m bez prethodnog odobrenja Direktorata za sve kategorije;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Do 100 m od stajne tačke operatera;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Ograničen na 200 m od stajne tačke operatera;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Do 250 m od stajne tačke operatera;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Maksimalna visina leta bespilotnog vazduhoplova kategorije 1 je:",
+      "answers": [
+        {
+          "answer": "Ograničena Pravilnikom na 100 m bez prethodnog odobrenja Direktorata za sve kategorije;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Do 30 m iznad terena;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Do 75 m iznad terena;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Do 100 m iznad terena;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Maksimalna brzina leta bespilotnog vazduhoplova kategorije 1 je:",
+      "answers": [
+        {
+          "answer": "Nije ograničena Pravilnikom o bespilotnim vazduhoplovima;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Do 30 m/s;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Do 50 m/s;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Do 55 m/s;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Maksimalna masa na poletanju bespilotnih vazduhoplova kategorije 1 je:",
+      "answers": [
+        {
+          "answer": "Manja od 0,9 kg;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Veća od 0,5 kg do 1 kg;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Od 0,5 kg do 5 kg;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Do 5 kg uključujući i gorivo / energiju potrebnu za let;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Kategorija 2 bespilotnih vazduhoplova obuhvata:",
+      "answers": [
+        {
+          "answer": "Bespilotne vazduhoplove čija je maksimalna masa na poletanju manja od 0,9 kg do 4 kg (ne\nuključujući 4 kg);",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotne vazduhoplove čija je operativna masa manja od 5 kg, sa maksimalnom visinom leta\ndo 50 m, maksimalnom brzinom leta do 30 m/s i maksimalnim doletom do 100 m;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotne vazduhoplove čija je maksimalna masa na poletanju od 1 kg do 5 kg uključujući 5 kg;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotne vazduhoplove čija je operativna masa 5 kg, sa maksimalnom visinom leta do 50 m,\nmaksimalnom brzinom leta do 10 m/s i maksimalnim doletom do 130 m;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Maksimalni dolet bespilotnog vazduhoplova kategorije 2 je:",
+      "answers": [
+        {
+          "answer": "Ograničen Pravilnikom na 500 m bez prethodnog odobrenja Direktorata za sve kategorije;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Do 100 m od stajne tačke operatera;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Ograničen na 200 m od stajne tačke operatera;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Do 250 m od stajne tačke operatera;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Maksimalna visina leta bespilotnog vazduhoplova kategorije 2 je:",
+      "answers": [
+        {
+          "answer": "Ograničena Pravilnikom na 100 m bez prethodnog odobrenja Direktorata za sve kategorije;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Do 50 m iznad terena;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Do 75 m iznad terena;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Više od 100 m iznad terena;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Maksimalna brzina leta bespilotnog vazduhoplova kategorije 2 je:",
+      "answers": [
+        {
+          "answer": "Nije ograničena Pravilnikom o bespilotnim vazduhoplovima;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Od 50 m/s do 75 m/s;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Od 50 m/s do 100 m/s;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Do 120 m/s;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Maksimalna masa na poletanju bespilotnih vazduhoplova kategorije 2 je:",
+      "answers": [
+        {
+          "answer": "Od 0,9 kg do 4 kg (ne uključujući 4 kg);",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Veća od 1 kg do 5 kg (uključujući 1 kg);",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Od 1 kg do 5 kg (ne uključujući 5 kg);",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Do 5 kg uključujući i gorivo / energiju potrebnu za let;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Kategorija 3 bespilotnih vazduhoplova obuhvata:",
+      "answers": [
+        {
+          "answer": "Bespilotne vazduhoplove čija je maksimalna masa na poletanju manja od 4 kg do 25 kg (ne\nuključujući 25 kg);",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotne vazduhoplove čija je operativna masa 20 kg, sa maksimalnom visinom leta do 50 m,\nmaksimalnom brzinom leta do 30 m/s i maksimalnim doletom do 100 m;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotne vazduhoplove čija je maksimalna masa na poletanju 20 kg (ne uključujući 20 kg);",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotne vazduhoplove čija je operativna masa 25 kg, sa maksimalnom visinom leta do 150 m,\nmaksimalnom brzinom leta do 50 m/s i maksimalnim doletom većim od 500 m;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Maksimalni dolet bespilotnog vazduhoplova kategorije 3 je:",
+      "answers": [
+        {
+          "answer": "Ograničen Pravilnikom na 500 m bez prethodnog odobrenja Direktorata za sve kategorije za sve\nkategorije;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Od 300 m do 500 m od stajne tačke operatera;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Ograničen na 300 m od stajne tačke operatera (uključujući i 300);",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Do 500 m od stajne tačke operatera (ne uključujući 500 m);",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Maksimalna visina leta bespilotnog vazduhoplova kategorije 3 je:",
+      "answers": [
+        {
+          "answer": "Ograničena Pravilnikom na 100 m bez prethodnog odobrenja Direktorata za sve kategorije;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Do 50 m iznad terena;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Do 150 m iznad terena;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Više od 100 m iznad terena-bez ograničenja;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Maksimalna brzina leta bespilotnog vazduhoplova kategorije 3 je:",
+      "answers": [
+        {
+          "answer": "Nije ograničena Pravilnikom o bespilotnim vazduhoplovima;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Od 75 m/s do 100 m/s;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Od 100 m/s do 150 m/s;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Više od 120 m/s-bez ograničenja;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Maksimalna masa na poletanju bespilotnih vazduhoplova kategorije 3 je:",
+      "answers": [
+        {
+          "answer": "Od 4 kg do 25 kg (ne uključujući 25 kg);",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Veća od 10 kg do 20 kg (uključujući 20 kg);",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Od 2 kg do 25 kg (uključujući 25 kg);",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Do 25 kg uključujući i gorivo / energiju potrebnu za let;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Kategorija 4 bespilotnih vazduhoplova obuhvata:",
+      "answers": [
+        {
+          "answer": "Bespilotne vazduhoplove čija je maksimalna masa na poletanju manja od 25 kg do 150 kg;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotne vazduhoplove čija je operativna masa do 100 kg, sa maksimalnom visinom leta do\n150 m, maksimalnom brzinom leta do 55 m/s i maksimalnim doletom do 500 m;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotne vazduhoplove čija je maksimalna masa na poletanju od 100 do 150 kg (ne uključujući\n150 kg);",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotne vazduhoplove čija je operativna masa 150 kg, sa maksimalnom visinom leta do 150\nm, maksimalnom brzinom leta do 55 m/s i maksimalnim doletom većim od 500 m;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Maksimalni dolet bespilotnog vazduhoplova kategorije 4 je:",
+      "answers": [
+        {
+          "answer": "Ograničen Pravilnikom na 500 m bez prethodnog odobrenja Direktorata;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Od 400 m do 500 m od stajne tačke operatera;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Ograničen na 500 m od stajne tačke operatera (uključujući i 500);",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bez ograničenja u doletu;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Maksimalna visina leta bespilotnog vazduhoplova kategorije 4 je:",
+      "answers": [
+        {
+          "answer": "Ograničena Pravilnikom na 100 m bez prethodnog odobrenja Direktorata za sve kategorije;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Do 100 m iznad terena;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Do 150 m iznad terena;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Više od 100 m iznad terena-bez ograničenja;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Maksimalna brzina leta bespilotnog vazduhoplova kategorije 4 je:",
+      "answers": [
+        {
+          "answer": "Nije ograničena Pravilnikom o bespilotnim vazduhoplovima;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Od 55 m/s do 75 m/s;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Od 75 m/s do 100 m/s;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Više od 100 m/s-bez ograničenja;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Maksimalna masa na poletanju bespilotnih vazduhoplova kategorije 4 je:",
+      "answers": [
+        {
+          "answer": "Od 25 kg do 150 kg;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Veća od 10 kg do 20 kg (uključujući 20 kg);",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Od 4 kg do 150 kg;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Do 25 kg uključujući i gorivo / energiju potrebnu za let;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Koji bespilotni vazduhoplovi se upisuju u evidenciju koju vodi Direktorat:",
+      "answers": [
+        {
+          "answer": "Svi bespilotni vazduhoplovi koji pripadaju kategorijama 3 i 4;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi koji pripadaju kategoriji 1 ili 2 pod uslovima navedenim u Pravilniku:",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi kategorija 3 i 4 pod uslovima propisanim Pravilnikom;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi kategorija 2, 3 i 4;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Svi bespilotni vazduhoplovi;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Koji bespilotni vazduhoplovi kategorije 1 i 2 se upisuju u evidenciju koju vodi Direktorat:",
+      "answers": [
+        {
+          "answer": "Letenje na visinama većim od 100 m;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Letenje u blizini aerodroma;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Letenje na horizontalnoj udalјenosti većoj od 500 m od operatera bespilotnog vazduhoplova;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Letenje iznad ljudi;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Letenje u blizini ljudi;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Letenje u uslovno zabranjenoj zoni;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Letenje noću;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Izbacivanje tečnosti ili predmeta ili nošenje spoljnog tereta koji nije element strukture\nbespilotnog vazduhoplova;",
+          "is_answer_correct": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Koji bespilotni vazduhoplovi kategorije 3 i 4 se upisuju u evidenciju koju vodi Direktorat:",
+      "answers": [
+        {
+          "answer": "Svi bespilotni vazduhoplovi koji pripadaju kategorijama 3 i 4;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi kategorije 3 koji se koriste za letenje na visinama većim od 100 m;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi kategorije 3 koji se koriste letenje u blizini aerodroma;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi kategorije 3 koji se koriste za letenje na horizontalnoj udalјenosti većoj\nod 500 m od operatera bespilotnog vazduhoplova;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi kategorije 4 koji se koriste za letenje iznad ljudi;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi kategorije 4 letenje u blizini ljudi;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi kategorije 3 i 4 koji se koriste za letenje u uslovno zabranjenoj zoni;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi kategorije 3 i 4 koji se koriste za letenje noću;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi kategorije 4 koji se koriste za izbacivanje tečnosti ili predmeta ili\nnošenje spoljnog tereta koji nije element strukture bespilotnog vazduhoplova;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Svi bespilotni vazduhoplovi kategorije 4;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Koji bespilotni vazduhoplovi kategorije 1 i 2 se upisuju u evidenciju koju vodi Direktorat:",
+      "answers": [
+        {
+          "answer": "Bespilotni vazduhoplovi kategorije 1 i 2 koji se koriste za letenje na visinama većim od 100 m;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi kategorije 1 i 2 koji se koriste letenje u blizini aerodroma;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi kategorije 1 i 2 koji se koriste za letenje na horizontalnoj udaljenosti\nvećoj od 500 m od operatera bespilotnog vazduhoplova;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi kategorije 1 i 2 koji se koriste za letenje iznad ljudi;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi kategorije 1 i 2 letenje u blizini ljudi;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi kategorije 1 i 2 koji se koriste za letenje u uslovno zabranjenoj zoni;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi kategorije 1 i 2 koji se koriste za letenje noću;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi kategorije 1 i 2 koji se koriste za izbacivanje tečnosti ili predmeta ili\nnošenje spoljnog tereta koji nije element strukture bespilotnog vazduhoplova;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Svi bespilotni vazduhoplovi kategorije 1 i 2;",
+          "is_answer_correct": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Na čiji zahtev se bespilotni vazduhoplovi upisuju u evidenciju koju vodi Direktorat:",
+      "answers": [
+        {
+          "answer": "Na zahtev vlasnika ili korisnika bespilotnog vazduhoplova, a po ovlašćenju vlasnika;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Na zahtev korisnika bespilotnog vlasnika;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Na zahtev operatera bespilotnog vazduhoplova;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Na zahtev korisnika ili operatera bespilotnog vazduhoplova, a uz odobrenje vlasnika;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Uz zahtev za upis u Evidenciju vazduhoplova, vlasnik ili operater, dostavljaju i:",
+      "answers": [
+        {
+          "answer": "Za bespilotne vazduhoplove svih kategorija dokaz o plaćenoj carini ako je vazduhoplov\nproizveden u inostranstvu ili overenu pismenu izjavu vlasnika ako je vazduhoplov proizveden u\nRepublici Srbiji, odnosno ispravu kojom se dokazuje pravo svojine;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Za amaterski proizvedene bespilotne vazduhoplove se podnosi overena pismena izjava lica koje\nje proizvelo vazduhoplov, kao i isprava kojom se dokazuje pravo svojine ako lice koje je\nproizvelo vazduhoplov nije vlasnik tog vazduhoplova;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Za bespilotne vazduhoplove kategorija 1, 2 i 3 uputstvo proizvođača za korišćenje bespilotnog\nvazduhoplova, na srpskom ili na engleskom jeziku;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Za bespilotni vazduhoplov koji pripada kategoriji 4 podnosilac zahteva je dužan da dostavi\nDirektoratu tehničku dokumentaciju na osnovu koje može da se utvrdi sposobnost vazduhoplova\nza bezbedno letenje, kao i da omogući izvođenje demonstracionog leta uz prisustvo ovlašćenog\nslužbenog lica Direktorata;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Za sve kategorije bespilotnih vazduhoplova ugovor o osiguranju od odgovornosti za štetu koja\nse upotrebom bespilotnog vazduhoplova pričini trećim licima, u skladu sa zakonom kojim se\nuređuje obavezno osiguranje u saobraćaju;",
+          "is_answer_correct": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Ko je odgovoran za održavanje bespilotnog vazduhoplova:",
+      "answers": [
+        {
+          "answer": "Vlasnik ili korisnik;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Vlasnik ili operater;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Proizvođač i vlasnik;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Direktorat, vlasnik ili korisnik;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Održavanje bespilotnog vazduhoplova se vrši:",
+      "answers": [
+        {
+          "answer": "U skladu sa uputstvima proizvođača;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "U skladu sa uputstvima Direktorata;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "U ovlašćenom servisu;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Individualno koristeći najbolju praksu;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Maksimalna dozvoljena visina leta bespilotnog vazduhoplova bez prethodnog odobrenja je:",
+      "answers": [
+        {
+          "answer": "Do 100 m iznad tla;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Do 150 m iznad terena (500 ft);",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "U G klasi vazdušnog prostora do 150 m iznad terena (500 ft);",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Maksimalna visina leta bespilotnog vazduhoplova nije ograničena Pravilnikom;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Za let bespilotnog vazduhoplova na visinama većim od 100 m iznad terena potrebno je:",
+      "answers": [
+        {
+          "answer": "Prethodno odobrenje Direktorata i izvršena alokacija vazdušnog prostora;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Prethodno odobrenje Direktorata;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Izvršena alokacija vazdušnog prostora;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Odobrenje Ministarstva odbrane Republike Srbije;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Za let bespilotnog vazduhoplova na visinama većim od 100 m iznad terena operater mora:",
+      "answers": [
+        {
+          "answer": "Da podnese zahtev Direktoratu i da izvrši alokaciju vazdušnog prostora;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Podnese Direktoratu dokaz o izvršenoj alokaciji vazdušnog prostora;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Podnese nadležnoj kontroli letenja odobrenje Ministarstva odbrane Republike Srbije;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Ne mora ništa od navedenog;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Za let bespilotnog vazduhoplova na aerodromu (ograđeni deo aerodroma / helidroma) operater\nmora:",
+      "answers": [
+        {
+          "answer": "Pribaviti odobrenje operatera aerodroma;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Pribaviti odobrenje Direktorata i saglasnost operatera aerodroma / helidroma;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Pribaviti odobrenje Direktorata i izvršiti alokaciju vazdušnog prostora;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Pribaviti odobrenje operatera aerodroma / helidroma i izvršiti alokaciju vazdušnog prostora;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Let bespilotnog vazduhoplova u granicama aerodroma / helidroma podrazumeva:",
+      "answers": [
+        {
+          "answer": "Let unutar ograđenog dela aerodroma / helidroma;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Let unutar područja od 1,5 km od referentne tačke aerodroma (ARP);",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Let unutar područja od 5 km od referentne tačke aerodroma (ARP);",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Let u D klasi vazdušnog prostora do visine od 30m;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Let bespilotnog vazduhoplova u blizini aerodroma / helidroma podrazumeva:",
+      "answers": [
+        {
+          "answer": "Let van granica aerodroma u krugu poluprečnika 5 Km, odnosno 1,5 Km od referentne tačke\naerodroma;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Let unutar ograđenog dela aerodroma / helidroma;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Let unutar područja od 1,5 km od referentne tačke aerodroma (ARP);",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Let unutar područja od 5 km od referentne tačke aerodroma (ARP);",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Za let bespilotnog vazduhoplova u blizini aerodroma operater mora:",
+      "answers": [
+        {
+          "answer": "Pribaviti odobrenje Direktorata i izvršiti alokaciju vazdušnog prostora;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Pribaviti odobrenje Direktorata i saglasnost operatera aerodroma / helidroma;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Izvršiti alokaciju vazdušnog prostora;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Pribaviti odobrenje operatera aerodroma / helidroma i izvršiti alokaciju vazdušnog prostora;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Za let bespilotnog vazduhoplova u granicama i / ili blizini (do 5 Km od ARP-a) vojnog ili\nmešovitog aerodroma / helidroma operater mora:",
+      "answers": [
+        {
+          "answer": "Pribaviti odobrenje Ministarstva odbrane i izvršiti alokaciju vazdušnog prostora;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Pribaviti odobrenje Direktorata i izvršiti alokaciju vazdušnog prostora;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Pribaviti odobrenje Direktorata i saglasnost operatera aerodroma / helidroma;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Pribaviti odobrenje operatera aerodroma / helidroma i izvršiti alokaciju vazdušnog prostora;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Za let bespilotnog vazduhoplova u Zoni vazdušne bezbednosti unutar 1.000 m od administrativne\nlinije sa Autonomnom pokrajinom Kosovo i Metohija operater mora:",
+      "answers": [
+        {
+          "answer": "Pribaviti odobrenje Ministarstva odbrane;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Pribaviti odobrenje Ministarstva odbrane i izvršiti alokaciju vazdušnog prostora;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Pribaviti odobrenje Direktorata i saglasnost Ministarstva odbrane;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Pribaviti saglasnost Ministarstva odbrane i izvršiti alokaciju vazdušnog prostora;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Operater bespilotnog vazduhoplova za let bespilotnog vazduhoplova u Zoni vazdušne\nbezbednosti administrativne linije sa Autonomnom pokrajinom Kosovo i Metohija od Ministarstva odbrane\ntraži odobrenje ako je let:",
+      "answers": [
+        {
+          "answer": "Unutar 1000 m od administrativne linije;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Unutar 1500 m od administrativne linije;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Unutar 500 m od administrativne linije;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Unutar 250 m od administrativne linije, ako je prethodno izvršena i alokacija vazdušnog prostora;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "(2/8/P) Blizina aerodroma od 5 Km od referentne tačke aerodroma / helidroma (ARP) primenjuje se se\nna sledeće aerodrome / helidrome:",
+      "answers": [
+        {
+          "answer": "LYBE, LYBT, LYVR, LYNI, LYKV, LYUZ;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "LYBE, LYVR, LYNI, LYBJ, LYNS, LYPN;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "LYBJ, LYNS, LYBT, LYNI, LYKV, LYBE;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "LYBE, LYBA, LYBJ, LYBT, LYNI, LYKV;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Zvanični podaci o aerodromima / helidromima za koje se blizina aerodroma / helidroma smatra\nrastojanje od 1,5 Km od referentne tačke aerodroma / helidroma (ARP) nalaze se:",
+      "answers": [
+        {
+          "answer": "U AIP-u, koji je javno dostupan na internet stranici Kontrole letenja Srbije i Crne Gore, SMATSA\ndoo Beograd;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "U AIP-u i AIC-u;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "U NOTAM porukama, koje su javno dostupne na stranici Kontrole letenja Srbije i Crne Gore,\nSMATSA doo Beograd;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "U NOTAM porukama i AIC-u, koji su javno dostupne na stranici Kontrole letenja Srbije i Crne\nGore, SMATSA doo Beograd;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "(2/8/P) Blizina aerodroma od 5 Km od referentne tačke aerodroma / helidroma (ARP) primenjuje se se\nna sledeće aerodrome / helidrome:",
+      "answers": [
+        {
+          "answer": "Nikola Tesla, Batajnica-Pukovnik-pilot Milenko Pavlović, Vršac, Konstantin Veliki, Morava,\nPonikve;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Nikola Tesla, LYVR, LYNI, LYBJ, LYNS, LYPN;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Lisičij Jarak, Novi Sad-Čenej, Batajnica, Niš, Kraljevo, Beograd;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Beograd, LYBA, LYBJ, LYBT, Niš, Kraljevo-Morava;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Operater bespilotnog vazduhoplova je dužan da najkasnije 5 radnih dana pre nameravanog leta,\nodnosno najkasnije 24 časa pre nameravanog leta ako to zahtevaju razlozi hitnosti, o nameravanom letu\nobavesti mesno nadležnu organizacionu jedinicu policije ako planira:",
+      "answers": [
+        {
+          "answer": "Da let obavi iznad ljudi ili u blizini ljudi, po pribavljenom odobrenju Direktorata;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Da let obavi u blizini infrastrukturnih ili drugih značajnih objekata;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Da let obavi u uslovno zabranjenoj zoni, po pribavljenom odobrenju Direktorata, osim ako se let\nobavlja za potrebe ministarstva nadležnog za poslove odbrane, ministarstva nadležnog za\nunutrašnje poslove i poslove carine;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Da let obavi u blizini vojnog aerodroma / helidroma;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Da let obavlja iznad vojnih objekata;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Ukoliko let obavlja iznad Direktorata;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Ukoliko se let bespilotnog vazduhoplova obavlja iznad ili u blizini ljudi, značajnih infrastrukturnih\ni drugih objekata ili u uslovno zabranjenoj zoni, operater o nameravanom letu obaveštava:",
+      "answers": [
+        {
+          "answer": "Mesno nadležnu organizacionu jedinicu policije;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Najbližu policijsku stanicu i Direktorat;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Direktorat i vrši alokaciju vazdušnog prostora;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Ministarstvo odbrane, ako snima iz vazdušnog prostora i vrši alokaciju vazdušnog prostora;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Ukoliko se let bespilotnog vazduhoplova obavlja iznad ili u blizini ljudi, značajnih infrastrukturnih i\ndrugih objekata ili u uslovno zabranjenoj zoni, operater o nameravanom letu obaveštava mesno nadležnu\norganizacionu jedinicu policije:",
+      "answers": [
+        {
+          "answer": "5 radnih dana pre nameravanog leta, odnosno najkasnije 24 časa ako to zahtevaju razlozi hitnosti;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "5 radnih dana pre nameravanog leta, odnosno najkasnije 48 časova ako to zahtevaju razlozi\nhitnosti;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "7 radnih dana pre nameravanog leta, odnosno najkasnije 24 časa ako to zahtevaju razlozi hitnosti;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "5 radnih dana pre nameravanog leta, odnosno najkasnije 12 časova ako to zahtevaju razlozi\nhitnosti;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Ukoliko se let bespilotnog vazduhoplova planira na visinama većim od 100 m iznad tla:",
+      "answers": [
+        {
+          "answer": "Mora se prethodno izvršiti alokacija vazdušnog prostora;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Mora se prethodno dobiti odobrenje od Direktorata i nadležne jedinice kontrole letenja;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Mora se prethodno dobiti odobrenje od Direktorata i Ministarstva odbrane;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Pribaviti saglasnost Ministarstva unutrašnjih poslova i lokalne samouprave;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Ukoliko se let bespilotnog vazduhoplova planira u blizini aerodroma nezavisno od planirane visine\nleta:",
+      "answers": [
+        {
+          "answer": "Mora se prethodno izvršiti alokacija vazdušnog prostora;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Mora se prethodno dobiti odobrenje od Direktorata i operatera aerodroma;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Mora se prethodno dobiti odobrenje od Direktorata i nadležne jedinice kontrole letenja;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Pribaviti saglasnost operatera aerodroma i nadležne jedinice kontrole letenja;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Ukoliko se let bespilotnog vazduhoplova planira u blizini aerodroma na visini manjoj od 50 m\niznad tla:",
+      "answers": [
+        {
+          "answer": "Mora se prethodno izvršiti alokacija vazdušnog prostora;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Mora se prethodno dobiti odobrenje od Direktorata i operatera aerodroma;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Nisu potrebna odobrenja;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Pribaviti saglasnost operatera aerodroma i nadležne jedinice kontrole letenja;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Ukoliko se let bespilotnog vazduhoplova planira u blizini aerodroma ili na visini većoj od 100 m\niznad tla:",
+      "answers": [
+        {
+          "answer": "Mora se prethodno izvršiti alokacija vazdušnog prostora;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Mora se prethodno dobiti odobrenje od Direktorata i operatera aerodroma;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Nisu potrebna odobrenja;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Pribaviti saglasnost operatera aerodroma i nadležne jedinice kontrole letenja;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Ukoliko se let bespilotnog vazduhoplova planira u blizini aerodroma ili na visini većoj od 100 m\niznad tla, zahtev za alokaciju vazdušnog prostora podnosi:",
+      "answers": [
+        {
+          "answer": "Vlasnik, odnosno operater bespilotnog vazduhoplova;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Direktorat ili Ministarstvo odbrane;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Korisnik bespilotnog vazduhoplova;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Operater odnosno korisnik bespilotnog vazduhoplova;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Ukoliko se let bespilotnog vazduhoplova planira u blizini aerodroma ili na visini većoj od 100 m\niznad tla, zahtev za alokaciju vazdušnog prostora se podnosi:",
+      "answers": [
+        {
+          "answer": "Jedinici za upravljanje vazdušnim prostorom u okviru Kontrole letenja Srbije i Crne Gore\n(SMATSA);",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Jedinici za upravljanje vazdušnim prostorom u okviru Direktorat;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Službi traganja i spasavanja (SAR);",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Nikome-alokacija vazdušnog prostora nije obavezna;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Jedinica za upravljanje vazdušnim prostorom kojoj se podnosi zahtev za alokaciju vazdušnog\nprostora se nalazi u okviru:",
+      "answers": [
+        {
+          "answer": "Pružaoca usluga u vazdušnoj plovidbi-Kontrole letenja Srbije i Crne Gore (SMATSA);",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Ministarstva odbrane;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Direktorata;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Direktorata i Ministarstva odbrane;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Zahtev za alokaciju vazdušnog prostora se podnosi jedinici za upravljanje vazdušnim prostorom u\nokviru Kontrole letenja Srbije i Crne Gore (SMATSA):",
+      "answers": [
+        {
+          "answer": "Najkasnije 2 radna dana pre nameravanog leta bespilotnog vazduhoplova;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Najkasnije 5 radnih dana pre nameravanog leta bespilotnog vazduhoplova;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Najranije 5 a najkasnije 2 radna dana pre planiranog leta bespilotnog vazduhoplova;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Najkasnije 5 radna dana, a izuzetno 2 sata pre nameravanog leta bespilotnog vazduhoplova ako\nje zahtev hitan;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Zahtev za alokaciju vazdušnog prostora se podnosi posredstvom:",
+      "answers": [
+        {
+          "answer": "Faksa, elektronske pošte ili korišćenjem odgovarajuće aplikacije ili internet platforme, ako je ona\ndostupna;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Brzom poštom ili preporučenom pošiljkom;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Elektronskom poštom isključivo;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Elektronskom poštom, internet aplikacijom ili SMS porukom;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "O zahtevu za alokaciju vazdušnog prostora odlučuje:",
+      "answers": [
+        {
+          "answer": "Jedinica za upravljanje vazdušnim prostorom u okviru Kontrole letenja Srbije i Crne Gore\n(SMATSA);",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Direktorat i Ministarstvo odbrane;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Ministarstvo odbrane i Ministarstvo unutrašnjih poslova;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Niko-izvršena alokacija znači da je let odobren i prihvaćen kako je i planirano;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Kada odlučuje o zahtevu za alokaciju vazdušnog prostora Jedinica za upravljanje vazdušnim\nprostorom može da:",
+      "answers": [
+        {
+          "answer": "Donosi odluku o alokaciji vazdušnog prostora, objavljuje je i po potrebi, stavlja je van snage;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Donosi odluku o alokaciji vazdušnog prostora i objavljuje je;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Odobri li poništi zahtev;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Odobri zahtev (jednom odobrena alokacija se ne može promeniti do isteka predviđenog\nvremena);",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "u skladu a kojim propisom postupa Jedinica za upravljanje vazdušnim prostorom kada odlučuje o\nzahtevu za alokaciju vazdušnog prostora:",
+      "answers": [
+        {
+          "answer": "Propisom kojim se uređuje upravljanja vazdušnim prostorom (Uredba o upravljanju vazdušnim\nprostorom);",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Zakonom o vazdušnom saobraćaju;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Dnevnim planom upotrebe vazdušnog prostora i dnevnim planovima letenja;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Dnevnim planovima letenja i pravilima prioriteta;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "U vazdušnom prostoru koji je prethodno alociran za potrebe drugog korisnika:",
+      "answers": [
+        {
+          "answer": "Nije dozvoljeno letenje bespilotnog vazduhoplova;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Dozvoljeno je letenje bespilotnog vazduhoplova;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Dozvoljeno je letenje bespilotnog vazduhoplova, pod uslovom da je i drugi korisnik bespilotnim\nvazduhoplov;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Dozvoljeno je letenje bespilotnog vazduhoplova samo u uslovima vidljivosti;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Kada odlučuje o zahtevu za alokaciju vazdušnog prostora, Jedinica za upravljanje vazdušnim\nprostorom postupa:",
+      "answers": [
+        {
+          "answer": "Po pravilima prioriteta datim u propisu kojim se uređuje upravljanje vazdušnim prostorom;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "U skladu sa meteorološkom situacijom u prijavljenom rejonu letenja;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "U zavisnosti od broja operatera koji su se prijavili;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "U zavisnosti od značaj operatera koji su se prijavili;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Zahtev za alokaciju vazdušnog prostora podnosi se:",
+      "answers": [
+        {
+          "answer": "Na obrascu utvrđenim propisom kojim se reguliše upravljanje vazdušnim prostorom;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Slobodnim tekstom i pratećom tabelom;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Na memorandumu Direktorata;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Na obrascu nadležne jedinice kontrole letenja;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Uz zahtev za alokaciju vazdušnog prostora, vlasnik, odnosno korisnik podnosi i:",
+      "answers": [
+        {
+          "answer": "Odobrenje Direktorata iz član 7, stav 1 ili člana 8, stav 2 Pravilnika o bespilotnim\nvazduhoplovima;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Odobrenje Direktorata i odobrenja ostalih nadležnih organa;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Odobrenje po članovima 11, stav 2 i 12, stav 2 Pravilnika o bespilotnim vazduhoplovima;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Polisu osiguranja za bespilotnim vazduhoplov;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Nadležna jedinica kontrole letenja ili jedinica za upravljanje vazdušnim prostorom može prekinuti\naktivnosti u alociranom vazdušnom prostoru u sledećim slučajevima:",
+      "answers": [
+        {
+          "answer": "Ako kroz alocirani prostor mora da proleti vazduhoplov u stanju nužde;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "U slučaju OAT letova za obavlјanje hitnih operativnih poslova (MUP i Vojska Srbije);",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Ako vazduhoplov izbegava meteorološku pojavu koja je opasna za letenje;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "U slučaju letova vazduhoplovima sa STS indikatorima MEDEVAC/SAR/FFR u planu leta;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Ko može prekinuti aktivnosti u alociranom vazdušnom prostoru u slučajevima vazduhoplova u\nstanju nužde, OAT letova (Vojska Srbije i MUP) za hitne operativne potrebe, ako vazduhoplov izbegava\nmeteorološku pojavu koja je opasna za letenje ili u slučaju leta sa STS indikatorima MEDEVAC/SAR/FFR\nnavedenim u planu leta:",
+      "answers": [
+        {
+          "answer": "Nadležna jedinica kontrole letenja ili nadležna jedinica za upravljanje vazdušnim prostorom;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Samo nadležna jedinica kontrole letenja;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Samo jedinica za upravljanje vazdušnim prostorom;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Niko nema ovlašćenje za prekidanje aktivnosti u alociranom prostoru;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Kada jedinica za upravljanje vazdušnim prostorom ili nadležna služba kontrole letenja prekine\naktivnosti u alociranom vazdušnom prostoru, operater bespilotnog vazduhoplova:",
+      "answers": [
+        {
+          "answer": "Odmah po obaveštenju prekida let bespilotnog vazduhoplova na bezbedan način i o tome\nobaveštava organ koji je prekinuo aktivnost;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Vrši snižavanje bespilotnog vazduhoplova na bezbednu visinu;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Vrši pojačano osmatranje vazdušnog prostora i izbegavanje sudara po potrebi;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Na manjoj visini od prijavljene menja rejon letenja;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Maksimalna dozvoljena udaljenost bespilotnog vazduhoplova od operatera iznosi:",
+      "answers": [
+        {
+          "answer": "500 m osim ako Direktorat nije odobrio veću udaljenost i podnosilac zahteva nije dostavio\nprocenu rizika;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "500 m u D klasi vazdušnog prostora, i 1000 m u G klasi vazdušnog prostora;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "500 m do visine leta od 100 m iznad tla i 250 m iznad visine od 100 m iznad tla;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Do 1000 m uz odgovarajuću procenu rizika;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Ko može odobriti let na udaljenosti većoj od 500 m od operatera do bespilotnog vazduhoplova:",
+      "answers": [
+        {
+          "answer": "Direktorat uz dostavljenu procenu rizika;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Nadležna služba kontrole letenja;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Jedinica za upravljanje vazdušnim prostorom;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Direktorat i nadležna jedinica kontrole letenja;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Letenje iznad ljudi je zabranjeno:",
+      "answers": [
+        {
+          "answer": "Osim ako Direktorat ne odobri takvo letenje;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Osim ako MUP Republike Srbije ne odobri takvo letenje;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Nije definisano Pravilnikom o bespilotnim vazduhoplovima;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Osim za let na visinama većim od 100 m iznad tla;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Da bi Direktorat odobrio letenje iznad ljudi potrebno je:",
+      "answers": [
+        {
+          "answer": "Bespilotni vazduhoplov bude kategorije 1 ili kategorije 2 uz uslov maksimalne brzine do 19 m/s\ni kinetičke energije do 80 J;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplov bude kategorije 1 maksimalne brzine 5 m/s i kinetičke energije do 8 J;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Da masa bespilotnog vazduhoplova bude do 4 Kg, maksimalna brzina do 19 m/s;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Nije definisano Pravilnikom o bespilotnim vazduhoplovima;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Horizontalna udaljenost bespilotnog vazduhoplova od ljudi ne sme da bude manja od:",
+      "answers": [
+        {
+          "answer": "30 m, osim ako su ispunjeni uslovi da Direktorat odobri drugačije;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "25 m osim akao MUP Republike Srbije ne odobri drugačije;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "5 m;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "15 m;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "i ako su lica osigurana od povrede;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "ako je bespilotni vazduhoplov kategorije 1 ili 2;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Let bespilotnog vazduhoplova na horizontalnoj udaljenosti manjoj od 30 m od ljudi Direktorat\nodobrava u sledećim slučajevima:",
+      "answers": [
+        {
+          "answer": "Da se ne leti na horizontalnoj udaljenosti manjoj od 5 m od ljudi;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Da je bespilotni vazduhoplov kategorije 1 ili 2;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Da je bespilotni vazduhoplov kategorije 1;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Da je bespilotni vazduhoplov kategorije 2;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Da se ne leti na horizontalnoj udaljenosti manjoj od 3 m od ljudi;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Da bespilotni vazduhoplov kategorije 2 može leteti brzinom manjom od 3 m/s (low speed mode);",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Da bespilotni vazduhoplov kategorije 1 može leteti brzinom manjom od 3 m/s (low speed mode);",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Ako je kinetička energija do 80 J i bespilotni vazduhoplov je opremljen \" low speed mode\";",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Let bespilotnog vazduhoplova na horizontalnoj udaljenosti manjoj od 500 m od objekata Narodne\nskupštine, Vlade, Generalnog sekretarijata predsednika Republike, republičkih i pokrajinskih organa državne\nuprave i lokalne samouprave, Vojske Srbije, sudova, javnih tužilaštva, stranih diplomatskih predstavništva,\nkao i od značajnih infrastrukturnih objekata u oblasti energetike, saobraćaja, telekomunikacija i\nvodosnabdevanja:",
+      "answers": [
+        {
+          "answer": "Nije dozvoljeno bez prethodnog odobrenja vlasnika ili korisnika objekta i obaveštenja mesno\nnadležne jedinice policije MUP-a Republike Srbije;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Dozvoljeno je ako korisnik ili vlasnik bespilotnog vazduhoplova ima odobrenje vlasnika ili\nkorisnika objekta;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Dozvoljeno je ako je obaveštena mesno nadležna jedinica policije MUP-a Republike Srbije;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Dozvoljeno je ako je to prethodno odobrio MUP Republike Srbije i Ministarstvo odbrane\nRepublike Srbije;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Da je bespilotni vazduhoplov kategorije 1 ili 2 i da je izvršena alokacija vazdušnog prostora;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Obaveštenje mesno nadležnoj jedinici policije za let bespilotnog vazduhoplova na horizontalnoj\nudaljenosti manjoj od 500 m od objekata Narodne skupštine, Vlade, Generalnog sekretarijata predsednika\nRepublike, republičkih i pokrajinskih organa državne uprave i lokalne samouprave, Vojske Srbije, sudova,\njavnih tužilaštva, stranih diplomatskih predstavništva, kao i od značajnih infrastrukturnih objekata u oblasti\nenergetike, saobraćaja, telekomunikacija i vodosnabdevanja:",
+      "answers": [
+        {
+          "answer": "Vrši se najkasnije 5 radnih dana pre nameravanog leta, odnosno najkasnije 24 časa ako to razlozi\nhitnosti nalažu;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Vrši se najkasnije 48 časova pre nameravanog leta, odnosno najkasnije 24 časa ako to razlozi\nhitnosti nalažu;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Vrši se elektronskom poštom ili faksom;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Vrši se pisanim putem najkasnije 48 časova pre nameravanog leta preko pisarnice Direktorata;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Bespilotni vazduhoplovi kategorija 1 i 2 mogu se koristiti:",
+      "answers": [
+        {
+          "answer": "U rejonima I, II, III i IV bez prethodnog odobrenja Direktorata;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "U rejonima I i II;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "U rejonima I i II i u rejonima III i IV uz odobrenje Direktorata;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "U svim rejonima uz prethodno odobrenje Direktorata;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Bespilotni vazduhoplovi kategorija 1 mogu se koristiti:",
+      "answers": [
+        {
+          "answer": "U rejonima I, II, III i IV bez prethodnog odobrenja Direktorata;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "U rejonima I i II;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "U rejonima I i II i u rejonima III i IV uz odobrenje Direktorata;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "U svim rejonima uz prethodno odobrenje Direktorata;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Bespilotni vazduhoplovi kategorija 2 mogu se koristiti:",
+      "answers": [
+        {
+          "answer": "U rejonima I, II, III i IV bez prethodnog odobrenja Direktorata;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "U rejonima I i II;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "U rejonima I i II i u rejonima III i IV uz odobrenje Direktorata;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "U svim rejonima uz prethodno odobrenje Direktorata;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Bespilotni vazduhoplovi kategorije 3 mogu se koristiti:",
+      "answers": [
+        {
+          "answer": "U rejonima I, II bez prethodnog odobrenja Direktorata i u rejonima III i IV uz prethodno\nodobrenje Direktorata;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "U rejonima I i II, III i IV uz prethodno odobrenje Direktorata;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "U rejonima I i II;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "U svim rejonima bez prethodnog odobrenja Direktorata;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Bespilotni vazduhoplovi kategorije 4 mogu se koristiti:",
+      "answers": [
+        {
+          "answer": "U rejonima I i II;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "U rejonima I, II bez prethodnog odobrenja Direktorata i u rejonima III i IV uz prethodno\nodobrenje Direktorata;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "U rejonima I i II, III i IV uz prethodno odobrenje Direktorata;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "U svim rejonima bez prethodnog odobrenja Direktorata;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "U rejonima I i II se mogu koristiti bespilotni vazduhoplovi sledećih klasa:",
+      "answers": [
+        {
+          "answer": "Bespilotni vazduhoplovi svih klasa bez prethodnog odobrenja Direktorata;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi 3 i 4;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi klasa 1 i 2 bez prethodnog odobrenja i klasa 3 i 4 uz prethodno odobrenje\nDirektorata;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi klasa 1 i 2 bez prethodnog odobrenja Direktorata i klasa 3 i 4 uz\nprethodnu alokaciju vazdušnog prostora;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "U rejonima III se mogu koristiti bespilotni vazduhoplovi sledećih klasa:",
+      "answers": [
+        {
+          "answer": "Bespilotni vazduhoplovi klasa 1, 2 i klase 3 uz prethodno odobrenje Direktorata;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi 1 i 2;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi klasa 1 i 2 bez prethodnog odobrenja i klasa 3 i 4 uz prethodno odobrenje\nDirektorata;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi klasa 1 i 2 bez prethodnog odobrenja Direktorata i klasa 3 i 4 uz\nprethodnu alokaciju vazdušnog prostora;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "U rejonima IV se mogu koristiti bespilotni vazduhoplovi sledećih klasa:",
+      "answers": [
+        {
+          "answer": "Bespilotni vazduhoplovi klasa 1, 2 i klase 3 uz prethodno odobrenje Direktorata;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi 1 i 2;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi klasa 1 i 2 bez prethodnog odobrenja i klasa 3 i 4 uz prethodno odobrenje\nDirektorata;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplovi klasa 1 i 2 bez prethodnog odobrenja Direktorata i klasa 3 i 4 uz\nprethodnu alokaciju vazdušnog prostora;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "U uslovno zabranjenoj zoni LYR-8 Beograd, mogu leteti bespilotni vazduhoplovi:",
+      "answers": [
+        {
+          "answer": "Uz prethodno odobrenje Direktorata koji pribavlja mišljenje MUP-a i Ministarstva odbrane\nRepublike Srbije;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Ne mogu leteti bespilotni vazduhoplovi bez izvršene alokacije vazdušnog prostora;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Uz prethodno odobrenje Direktorata i MUP-a Republike Srbije;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Uz prethodno odobrenje Ministarstva odbrane Republike Srbije i obaveštenje mesno nadležnoj\njedinici policije;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Bespilotni vazduhoplov može da leti u uslovima vidljivosti koji omogućavaju:",
+      "answers": [
+        {
+          "answer": "Da bespilotni vazduhoplov bude stalno u vidnom polju operatera danju i noću uz prethodno\nodobrenje Direktorata;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Danju i noću bez prethodnih odobrenja ako je bespilotni vazduhoplov stalno u vidnom polju\noperatera;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Da bespilotni vazduhoplov bude stalno u vidnom polju operatera danju i noću ako je opremljen\nsvetlima;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Da bespilotni vazduhoplov bude stalno u vidnom polju operatera danju i noću samo u rejonima I\ni II;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Smatra se da je bespilotni vazduhoplov u vidnom polju operatera ako:",
+      "answers": [
+        {
+          "answer": "Je operater neprekidno u vizuelnom kontaktu sa bespilotnim vazduhoplovom, bez korišćenja\nspoljnih optičkih ili elektronskih pomagala;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Operater može odrediti položaj u prostoru, poziciju, visinu, brzinu i pravac leta bespilotnog\nvazduhoplova;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Operater minimalno 95% vremena leta može odrediti položaj u prostoru, poziciju, visinu, brzinu\ni pravac leta bespilotnog vazduhoplova;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Bespilotni vazduhoplov leti danju kad operater vidi bespilotni vazduhoplov tokom leta i noću\nako tokom leta može da utvrdi poziciju bespilotnog vazduhoplova;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Sredstva za korekciju vida (naočare ili kontaktna sočiva) ne smatraju spoljnim pomagalom:",
+      "answers": [
+        {
+          "answer": "Ne smatraju se optičkim ili elektronskim pomagalom za održavanje vizuelnog kontakta operatera\nsa bespilotnim vazduhoplovom;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Smatraju se optičkim ili elektronskim pomagalom za održavanje vizuelnog kontakta operatera sa\nbespilotnim vazduhoplovom;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Ne smatraju se optičkim ili elektronskim pomagalom za održavanje vizuelnog kontakta operatera\nsa bespilotnim vazduhoplovom, ako se koristi oprema za letenje iz prvog lica (FPV-first person\nview);",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Smatraju se optičkim ili elektronskim pomagalom za održavanje vizuelnog kontakta operatera sa\nbespilotnim vazduhoplovom i ako se koristi oprema za letenje iz prvog lica (FPV-first person\nview);",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Bespilotni vazduhoplov može da leti u uslovima vidljivosti:",
+      "answers": [
+        {
+          "answer": "Danju i noću uz prethodno odobrenje Direktorata;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Danju i noću bez prethodnih odobrenja, i izvršenu alokaciju vazdušnog prostora;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Danju;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Danju u svim rejonima i noću samo u rejonima I i II;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Bespilotnim vazduhoplovom je zabranjeno:",
+      "answers": [
+        {
+          "answer": "Prevoziti ljude, životinje i opasnu robu;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Prevoziti opasnu robu i ljude, dok je životinje moguće prevoziti samo danju u rejonima I i II;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Prevoziti ljude i životinje;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Prevoziti opasne materije;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Prilikom korišćenja bespilotnih vazduhoplova zabranjeno je:",
+      "answers": [
+        {
+          "answer": "Upravljati sa više bespilotnih vazduhoplova istovremeno ili upravljati sa ili iz objekta u pokretu;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Upravljati sa više bespilotnih vazduhoplova istovremeno;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Upravljati bespilotnim vazduhoplovom sa ili iz objekta u pokretu;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Upravljati sa više bespilotnih vazduhoplova istovremeno bez odobrenja Direktorata ili upravljati\nsa ili iz objekta u pokretu;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Prilikom korišćenja bespilotnog vazduhoplova zabranjeno je:",
+      "answers": [
+        {
+          "answer": "Prevoziti ljude, životinje i opasnu robu;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Prevoziti ljude i opasne materije;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Prevoziti životinje bez odobrenja Direktorata;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Upravljati bespilotnim vazduhoplovom sa ili iz vozila u pokretu;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Upravljati bespilotnim vazduhoplovom iz drugog vazduhoplova;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Upravljati sa više bespilotnih vazduhoplova istovremeno;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Upravljati sa više bespilotnih vazduhoplova istovremeno, osim ako nisu kategorije 1;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Prevoziti ljude, opasne materije i upravljati sa više bespilotnih vazduhoplova istovremeno;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Prilikom korišćenja bespilotnih vazduhoplova zabranjeno je:",
+      "answers": [
+        {
+          "answer": "Nošenje spoljnog tereta koji nije element strukture i opreme tog bespilotnog vazduhoplova, ili\nizbacivanje predmeta i tečnosti bez prethodnog odobrenja Direktorata;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Nošenje spoljnog tereta ili izbacivanje predmeta i tečnosti bez prethodnog odobrenja Direktorata;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Nošenje spoljnog tereta ili izbacivanje predmeta ili tečnosti bez prethodnog odobrenja\nDirektorata;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Nošenje spoljnog tereta koji nije element strukture i opreme tog bespilotnog vazduhoplova;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Prilikom korišćenja bespilotnog vazduhoplova zabranjeno je:",
+      "answers": [
+        {
+          "answer": "Nošenje spoljnog tereta koji nije element strukture i opreme tog bespilotnog vazduhoplova bez\nprethodnog odobrenja Direktorata;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Nošenje spoljnog tereta težeg od težine vazduhoplova (max 1,25 težine);",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Prevoziti ljude, životinje i opasnu robu;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Prevoziti ljude i opasan teret;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Upravljati bespilotnim vazduhoplovom iz drugog vazduhoplova;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Upravljati bespilotnim vazduhoplovom sa ili iz objekata u pokretu;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Upravljati sa više bespilotnih vazduhoplova istovremeno;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Upravljati sa više bespilotnih vazduhoplova istovremeno, osim ako nisu kategorije 1;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Izbacivati predmete i tečnosti bez prethodnog odobrenja Direktorata;",
+          "is_answer_correct": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Kada je to propisano Pravilnikom o bespilotnim vazduhoplovima zahtevi za odobrenja\nDirektorata se:",
+      "answers": [
+        {
+          "answer": "Podnose po pravilu najkasnije 15 dana pre planiranog leta ili serije letova na propisanom obrascu\nuz dostavljanje važeće polise osiguranja prema trećim licima;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Podnose po pravilu najkasnije 15 dana pre planiranog leta ili serije letova na propisanom obrascu;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Podnose po pravilu bar 10 dana pre planiranog leta ili serije letova na propisanom obrascu;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Podnose po pravilu bar 5 dana pre planiranog leta ili 10 dana za planiranu seriju letova uz polisu\nosiguranja važeću za dati period;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Kada je to propisano Pravilnikom o bespilotnim vazduhoplovima zahtevi za odobrenja Direktorata\nse podnose:",
+      "answers": [
+        {
+          "answer": "Po pravilu najkasnije 15 dana pre planiranog leta ili serije letova na propisanom obrascu uz\ndostavljanje važeće polise osiguranja prema trećim licima;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Najkasnije 10 dana pre planiranog leta ili serije letova na propisanom obrascu, elektronskom\npoštom;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Najkasnije 10 dana pre planiranog leta ili serije letova na propisanom obrascu, pisanim putem;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Podnose po pravilu bar 10 dana pre planiranog leta ili bar 15 dana za planiranu seriju letova,\npisanim putem na pisarnici Direktorata ukoliko je to moguće;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Zahtev za izdavanje odobrenja Direktorata prema odredbama Pravilnika o bespilotnim\nvazduhoplovima koji se po pravilu podnosi najkasnije 15 dana pre planiranog leta se:",
+      "answers": [
+        {
+          "answer": "Podnosi na propisanim obrascima uz važeći ugovor o osiguranju prema trećim licima, na bilo\nkoji način predviđen propisom kojim se propisuje opšti upravni postupak;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Podnosi na propisanim obrascima uz važeći ugovor o osiguranju prema trećim licima, isključivo\nputem elektronske pošte;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Podnosi na propisanim obrascima isključivo putem elektronske pošte;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Podnosi na propisanim obrascima, pisanim putem na pisarnici Direktorata kad god je to moguće;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Zahtev za izdavanje odobrenja Direktorata prema odredbama Pravilnika o bespilotnim\nvazduhoplovima koji se po pravilu podnosi najkasnije 15 dana pre planiranog leta može da se:",
+      "answers": [
+        {
+          "answer": "Odnosi na 1 let ili seriju letova u periodu od najviše 30 dana, računajući od dana kad je planiran\nprvi let;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Odnosi na ukupno 10 letova pojedinačno ili u seriji i to u periodu od najviše 30 dana, računajući\nod dana kad je planiran prvi let;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Odnosi na ukupno 50 letova pojedinačno ili u seriji i to u periodu od najviše 60 dana, računajući\nod dana kad je planiran prvi let;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Odnosi na pojedinačni let ili seriju letova bez vremenskih ograničenja i drugih ograničenja;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Na osnovu Pravilnika o bespilotnim vazduhoplovima Direktorat može:",
+      "answers": [
+        {
+          "answer": "U zavisnosti od okolnosti konkretnog slučaja, da odredi dopunske uslove koje podnosilac zahteva\nmora da ispuni, ako na osnovu činjenica u postupku utvrdi da je ispunjavanje tih dodatnih uslova\nneophodno za bezbedno letenje bespilotnog vazduhoplova;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "U zavisnosti od konkretnog slučaja, da uslovi izvršenje leta dodatnim odobrenjima drugih\nnadležnih organa;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Da zahtev odbije ili odbaci na način kako je to regulisano propisom kojim se reguliše upravni\npostupak;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Samo da zahtev odbaci ili odobri let pod inicijalnim uslovima datim u zahtevu;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Zahtev za odobrenje letenja koji se podnosi Direktoratu:",
+      "answers": [
+        {
+          "answer": "Podnosi se, po pravilu, najkasnije 15 dana pre planiranog leta, na obrascima čiju sadržinu i izgled\nutvrđuje Direktorat;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Podnosi se po pravilu najkasnije 10 dana pre početka serije letova;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Se odnosi na 1 let ili seriju letova u periodu od najviše 30 dana, računajući od dana kada se planira\nprvi let;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Se odnosi na pojedinačni let ili na najviše 30 letova u periodu od najviše 60 dana;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Sadrži i kopiju važećeg ugovora o osiguranju od odgovornosti za štetu koja se upotrebom\nbespilotnog vazduhoplova pričini trećim licima;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Sadrži i odobrenja ostalih nadležnih organa kada je to propisano posebnim propisom;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Operater bespilotnog vazduhoplova je dužan da obezbedi da let bespilotnog vazduhoplova:",
+      "answers": [
+        {
+          "answer": "Da ne ugrožava život, zdravlje i imovinu ljudi kao i da ne narušava red i mir;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Da ne ugrožava život i zdravlje ljudi, kao i da ne narušava javni red i mir;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Da ne ugrožava život i zdravlje ljudi, kao i da ne narušava privatnost lica;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Da ne ugrožava život, zdravlje i imovinu ljudi, niti privatnost lica;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Operater bespilotnog vazduhoplova je dužan da:",
+      "answers": [
+        {
+          "answer": "Koristi bespilotni vazduhoplov na način kojim se obezbeđuje poštovanje pravila letenja\npropisanih Pravilnikom o bespilotnim vazduhoplovima;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Koristi bespilotni vazduhoplov na način kojim se obezbeđuje poštovanje pravila letenja\npropisanih Pravilnikom o letenju vazduhoplova;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Koristi bespilotni vazduhoplov na način kojim se obezbeđuje poštovanje svih odredbi Pravilnika\no bespilotnim vazduhoplovima;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Koristi bespilotni vazduhoplov na bezbedan način;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Operater bespilotnog vazduhoplova je odgovoran:",
+      "answers": [
+        {
+          "answer": "Da se kada je vazdušni prostor alociran, let bespilotnog vazduhoplova u potpunosti odvija u\ngranicama tog prostora, kao i da bude dostupan nadležnoj jedinici kontrole letenja radi\neventualnog prekida leta;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Da se kada je vazdušni prostor alociran, let bespilotnog vazduhoplova u potpunosti odvija u\ngranicama tog prostora (ne mora biti dostupan-prostor je prethodno alociran);",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Da se kada je vazdušni prostor alociran, let bespilotnog vazduhoplova odvija u granicama tog\nprostora, kada je to moguće, a da se svaki izlazak iz alociranog prostora javi nadležnoj jedinici\nkontrole letenja;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Da se u slučaju prekida leta ili odustajanja od istog javi nadležnoj jedinici kontrole letenja radi\notkazivanja alokacije, i da bude dostupan nadležnoj jedinici kontrole letenja radi eventualnog\nprekida ponovo započetog leta;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Operater bespilotnog vazduhoplova je dužan da:",
+      "answers": [
+        {
+          "answer": "Da se uveri u ispravnost sistema bespilotnog vazduhoplova, kao i da proveri količinu pogonskog\ngoriva, odnosno stanje baterija;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Da se uveri u ispravnost sistema bespilotnog vazduhoplova, kao i da stanje baterija;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Da održava bespilotni vazduhoplov u skladu sa uputstvom proizvođača i da pre leta obavezno\nproveri stanje baterija;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Da pre leta proveri količinu pogonskog goriva, odnosno stanje baterija i da proceni vetar u rejonu\nletenja;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Operater bespilotnog vazduhoplova je dužan da:",
+      "answers": [
+        {
+          "answer": "Obezbedi da sva oprema bespilotnog vazduhoplova, uključujući predmete i spoljni teret, bude na\nodgovarajući način pričvršćena;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Da se uveri da je sva oprema bespilotnog vazduhoplova podešena a predmeti pričvršćeni;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Obezbedi da predmeti i spoljni teret budu na odgovarajući način pričvršćeni i da je količina\ntečnosti za prskanje u skladu sa uputstvom proizvođača;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Da je spoljni teret koji nije deo strukture bespilotnog vazduhoplova bude na odgovarajući način\npričvršćen i da je količina tečnosti za prskanje u skladu sa uputstvom proizvođača;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Operater bespilotnog vazduhoplova je dužan da:",
+      "answers": [
+        {
+          "answer": "Obezbedi da bespilotni vazduhoplov tokom leta bude bezbedno udaljen od prepreka;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Prethodno izvrši procenu svih prepreka u planiranom rejonu leta;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Prethodno izvrši procenu vetra i svih prepreka u planiranom rejonu leta;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Obezbedi da obezbedi da bespilotni vazduhoplov tokom leta bude udaljen od prepreka minimalno\n30m;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Operater bespilotnog vazduhoplova:",
+      "answers": [
+        {
+          "answer": "Ne sme da bude pod uticajem alkohola ili psiho-aktivnih supstanci, niti u takvom psihofizičkom\nstanju koje ga onemogućava da bezbedno upravlja bespilotnim vazduhoplovom;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Ne sme da bude pod uticajem alkohola ili psiho-aktivnih supstanci;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Ne sme da bude u takvom psihofizičkom stanju koje ga onemogućava da bezbedno upravlja\nbespilotnim vazduhoplovom;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Ne sme da bude pod uticajem alkohola ili lekova koji bi doveli do nebezbednog upravljanja\nbespilotnim vazduhoplovom (lekovi sa znakom trougla);",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Operater bespilotnog vazduhoplova je dužan:",
+      "answers": [
+        {
+          "answer": "Da prikupi sve potrebne informacije za bezbedno obavljanje planiranog leta;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Da se uveri da meteorološki i ostali uslovi u području leta obezbeđuju njegovo bezbedno\nizvođenje;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Da ukoliko ne alocira vazdušni prostor da se uveri da taj prostor nije prethodno alociran drugom\nkorisniku;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Da se uveri da ne postoje ograničenja za obavlјanje planiranog leta;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Da prethodno upozori građane ako je let planiran u rejonima III i IV;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Da dobije prethodno odobrenje Direktorata kada je to potrebno, da kontaktira mesno nadležnu\nstanicu policije i izvrši alokaciju vazdušnog prostora;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Dužnosti operatera bespilotnog vazduhoplova su:",
+      "answers": [
+        {
+          "answer": "Da ne ugrožava život, zdravlje i imovinu ljudi kao i da ne narušava red i mir;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Koristi bespilotni vazduhoplov na način kojim se obezbeđuje poštovanje pravila letenja\npropisanih Pravilnikom o bespilotnim vazduhoplovima;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Da se kada je vazdušni prostor alociran, let bespilotnog vazduhoplova u potpunosti odvija u\ngranicama tog prostora, kao i da bude dostupan nadležnoj jedinici kontrole letenja radi\neventualnog prekida leta;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Da se uveri u ispravnost sistema bespilotnog vazduhoplova, kao i da proveri količinu pogonskog\ngoriva, odnosno stanje baterija;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Obezbedi da sva oprema bespilotnog vazduhoplova, uključujući predmete i spoljni teret, bude na\nodgovarajući način pričvršćena;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Obezbedi da bespilotni vazduhoplov tokom leta bude bezbedno udaljen od prepreka;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Ne sme da bude pod uticajem alkohola ili psiho-aktivnih supstanci, niti u takvom psihofizičkom\nstanju koje ga onemogućava da bezbedno upravlja bespilotnim vazduhoplovom;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Da prikupi sve potrebne informacije za bezbedno obavljanje planiranog leta;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Da se uveri da meteorološki i ostali uslovi u području leta obezbeđuju njegovo bezbedno\nizvođenje;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Da ukoliko ne alocira vazdušni prostor da se uveri da taj prostor nije prethodno alociran drugom\nkorisniku;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Da se uveri da ne postoje ograničenja za obavljanje planiranog leta;",
+          "is_answer_correct": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Sve informacije o vazdušnom prostoru i o potencijalnim ograničenjima u vazdušnom prostoru,\nkao i aerodromima, operater bespilotnog vazduhoplova može naći:",
+      "answers": [
+        {
+          "answer": "U AIP-u i NOTAM-ima, koje su javno dostupne na internet stranici Kontrole letenja Srbije i Crne\nGore, SMATSA doo Beograd;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "U AIP-u (Aeronautical Information Publiction), koji je javno dostupan na internet stranici\nKontrole letenja Srbije i Crne Gore, SMATSA doo Beograd;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "U NOTAM-ima (Notice to Airmen), koji su javno dostupni na internet stranici Kontrole letenja\nSrbije i Crne Gore, SMATSA doo Beograd;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "U sredstvima javnog informisanja i Integrisanom vazduhoplovnom informativnom paketu\n(Integrated Aeronautical Information Package);",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Korisnici vazdušnog prostora podatke o alociranim delovima vazdušnog prostora mogu naći:",
+      "answers": [
+        {
+          "answer": "U AUP-u (Airspace Usage Plan) i UUP-u (Updated Usage Plan), u AIP-u (Aeronautical\nInformation Publiction) i u NOTAM-ima (Notice to Airmen), koji su javno dostupni na internet\nstranici Kontrole letenja Srbije i Crne Gore, SMATSA doo Beograd;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "U AUP-u (Airspace Usage Plan) i UUP-u (Updated Usage Plan), koji su javno dostupni na\ninternet stranici Kontrole letenja Srbije i Crne Gore, SMATSA doo Beograd;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "U AIP-u (Aeronautical Information Publiction), koji je javno dostupan na internet stranici\nKontrole letenja Srbije i Crne Gore, SMATSA doo Beograd;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "U NOTAM-ima (Notice to Airmen), koji su javno dostupni na internet stranici Kontrole letenja\nSrbije i Crne Gore, SMATSA doo Beograd;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "U skladu sa odredbama Pravilnika o bespilotnim vazduhoplovima svaki događaj koji je nastao\nprilikom korišćenja bespilotnog vazduhoplova, a koji je ugrozio ili koji je mogao da ugrozi bezbednost\nvazdušnog saobraćaja, kao i bezbednost lica i imovine:",
+      "answers": [
+        {
+          "answer": "Vlasnik ili korisnik bespilotnog vazduhoplova je dužan da prijavi Direktoratu neposredno po\nsaznanju o događaju, a najkasnije 72 sata od nastanka događaja, kao i drugom nadležnom organu\nako je takva obaveza ustanovljena drugim propisom;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Operater bespilotnog vazduhoplova je dužan da prijavi Direktoratu najkasnije 36 sata od nastanka\ndogađaja;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Vlasnik ili korisnik bespilotnog vazduhoplova je dužan da prijavi Direktoratu neposredno po\nsaznanju o događaju, a najkasnije 12 sata od nastanka događaja, kao i MUP-u Republike Srbije;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Vlasnik ili korisnik bespilotnog vazduhoplova je dužan da prijavi Direktoratu neposredno po\nsaznanju o događaju, a najkasnije 72 sata od nastanka događaja;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "U skladu sa odredbama Pravilnika o bespilotnim vazduhoplovima svaki događaj koji je nastao\nprilikom korišćenja bespilotnog vazduhoplova, a koji je ugrozio ili koji je mogao da ugrozi bezbednost\nvazdušnog saobraćaja, kao i bezbednost lica i imovine, Direktoratu prijavljuje:",
+      "answers": [
+        {
+          "answer": "Vlasnik ili korisnik bespilotnog vazduhoplova;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Operater bespilotnog vazduhoplova;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Svaki građanin;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Vazduhoplovni inspektor;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "U skladu sa odredbama Pravilnika o bespilotnim vazduhoplovima svaki događaj koji je nastao\nprilikom korišćenja bespilotnog vazduhoplova, a koji je ugrozio ili koji je mogao da ugrozi bezbednost\nvazdušnog saobraćaja, kao i bezbednost lica i imovine, Vlasnik ili korisnik bespilotnog vazduhoplova su\ndužni da:",
+      "answers": [
+        {
+          "answer": "Prijave Direktoratu i drugom nadležnom organu ako je takva obaveza ustanovljena drugim\npropisom;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Samo nadležnom organu ako je takva obaveza ustanovljena drugim propisom;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Samo Direktoratu;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Nije dužan da prijavi događaj nikome ako nije bilo materijalne štete i / ili žrtava;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Osim odobrenja Direktorata, vlasnik, odnosno operater je dužan:",
+      "answers": [
+        {
+          "answer": "Da pribavi dozvole drugih nadležnih organa koje su neophodne za obavljanje delatnosti kojom\nnamerava da se bavi;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Da pribavi odobrenje MUP-a Republike Srbije i Ministarstva odbrane;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Samo da se obrati Direktoratu koji će sve dozvole pribaviti za njega;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Nije dužan da pribavlja nikakva odobrenja mimo Pravilnika o bespilotnim vazduhoplovima;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Dozvole drugih nadležnih organa koje su neophodne za obavljanje delatnosti kojom namerava da\nse bavi:",
+      "answers": [
+        {
+          "answer": "Dužan je da pribavi vlasnik ili operater bespilotnog vazduhoplova;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Dužan je da pribavi vlasnik ili korisnik bespilotnog vazduhoplova;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Dužan je da pribavi operater bespilotnog vazduhoplova;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Za vlasnika ili korisnika može pribaviti i treće lice po ovlašćenju;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Operater bespilotnog vazduhoplova u Republici Srbiji može biti:",
+      "answers": [
+        {
+          "answer": "Punoletno lice, odnosno zdravstveno sposobno lice koje je položilo predviđenu proveru znanja;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Punoletno lice ili maloletno lice starije od 15 godina ako namerava da koristi bespilotni\nvazduhoplov kategorije 1 na način da nije potrebna alokacija vazdušnog prostora;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Maloletno lice mlađe od 15 godina pod neposrednim nadzorom punoletnog lica ako namerava da\nkoristi bespilotni vazduhoplov kategorije 1 na način da nije potrebna alokacija vazdušnog\nprostora;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Punoletno zdravstveno sposobno lice koje je položilo predviđenu proveru znanja za sve\nkategorije bespilotnih vazduhoplova;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Maloletno lice starije od 10 godina zdravstveno sposobno lice za bespilotne vazduhoplove\nkategorija 1 i 2;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Maloletno lice starije od 10 godina zdravstveno sposobno lice za bespilotne vazduhoplove\nkategorija 1 i 2, a pod neposrednim nadzorom punoletnog zdravstveno sposobnog lica koje je\npoložilo predviđenu procenu znanja za kategorije 3 i 4 bespilotnih vazduhoplova;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Što se primenjuje i na strane državljane;",
+          "is_answer_correct": true,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Operater bespilotnog vazduhoplova u Republici Srbiji može biti zdravstveno sposobno lice,\nmentalno i fizički sposobno koje:",
+      "answers": [
+        {
+          "answer": "Poseduje važeće lekarsko uverenje klase 1, 2, ili 3 izdato u skladu sa propisom kojim se uređuju\ndozvole, centri za obuku i zdravstvena sposobnost letačkog osoblja i kontrolora letenja;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Poseduje važeću vozačku dozvolu;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Poseduje lekarsko uverenje izdato u skladu sa zakonom kojim se uređuje bezbednost saobraćaja\nna putevima, koje nije starije od pet godina;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Poseduje ili je posedovalo pilotsku ili dozvolu kontrolora letenja;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Poseduje važeću vozačku dozvolu sledećih kategorija A, B, C i D;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Da redovno prolazi sistematski pregled;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "question": "Operater bespilotnog vazduhoplova prilikom upravljanja bespilotnim vazduhoplovima kod sebe\nmora imati sledeću dokumentaciju:",
+      "answers": [
+        {
+          "answer": "Potvrdu o položenoj proveri znanja kada je ona predviđena pravilnikom;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Odobrenja Direktorata predviđena Pravilnikom o bespilotnim vazduhoplovom, ako su ona\nobavezna odredbama Pravilnika o bespilotnim vazduhoplovima;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Uputstvo proizvođača za korišćenje bespilotnog vazduhoplova, u štampanom ili elektronskom\nformatu;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Dokument kojim se dokazuje zdravstvena sposobnost operatera bespilotnog vazduhoplova;",
+          "is_answer_correct": true,
+          "checked": false
+        },
+        {
+          "answer": "Odobrenja MUP-a Republike Srbije i Ministarstva odbrane;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Kopije odobrenja drugih nadležnih organa kada su ona obavezna;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Važeću vozačku dozvolu;",
+          "is_answer_correct": false,
+          "checked": false
+        },
+        {
+          "answer": "Overenu zdravstvenu knjižicu;",
+          "is_answer_correct": false,
+          "checked": false
+        }
+      ]
+    }
+  ],
+  "current_question": 0
+}

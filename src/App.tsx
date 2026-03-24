@@ -1,3 +1,5 @@
+import { Questions } from "./components/questions/questions"
+
 export default function App() {
-  return <div>hello world</div>
+  return <Questions />
 }
