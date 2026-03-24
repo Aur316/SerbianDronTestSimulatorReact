@@ -1,3 +1,4 @@
+import { CustomDialog } from "@/components/custom-dialog/custom-dialog"
 import { CustomProgressBar } from "@/components/custom-progress-bar/custom-progress-bar"
 import { Button } from "@/components/ui/button"
 
@@ -48,15 +49,21 @@ export const QuestionLayout = ({
         <Button type="button" variant="secondary" onClick={onSkip} size="sm">
           Preskoči
         </Button>
-        <Button
-          type="button"
-          variant="ghost"
-          onClick={onRestart}
-          size="sm"
-          className="text-muted-foreground"
-        >
-          Počni iznova
-        </Button>
+        <CustomDialog
+          title="Počni iznova?"
+          description="Napredak će biti izgubljen. Možete početi ispočetka kada potvrdite."
+          onConfirm={onRestart}
+          trigger={
+            <Button
+              type="button"
+              variant="ghost"
+              size="sm"
+              className="text-muted-foreground"
+            >
+              Počni iznova
+            </Button>
+          }
+        />
       </div>
     </div>
   )
