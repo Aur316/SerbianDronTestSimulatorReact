@@ -59,6 +59,7 @@ export const QuestionLayout = ({
               variant="ghost"
               size="sm"
               className="text-muted-foreground"
+              disabled={isFirst}
             >
               Počni iznova
             </Button>
