@@ -5,15 +5,25 @@ import {
 import { QuestionLayout } from "@/components/question-layout/question-layout"
 import { Button } from "@/components/ui/button"
 import type { Question } from "@/types/question"
+import { INDEX_STORAGE_KEY } from "@/utils/constants"
+import { readStoredIndex } from "@/utils/helpers"
 import testData from "@/utils/test.json"
 
-import { useRef, useState } from "react"
+import { useEffect, useRef, useState } from "react"
 
 const questions = testData.questions as Array<Question>
 
 export const Questions = () => {
-  const [index, setIndex] = useState(0)
+  const [index, setIndex] = useState(() => readStoredIndex(questions.length))
   const formRef = useRef<QuestionFormHandle>(null)
+
+  useEffect(() => {
+    try {
+      localStorage.setItem(INDEX_STORAGE_KEY, String(index))
+    } catch {
+      // ignore (private mode, quota, etc.)
+    }
+  }, [index])
 
   if (!questions.length) {
     return (
@@ -32,10 +42,15 @@ export const Questions = () => {
           ✓
         </div>
         <div className="space-y-2">
-          <p className="text-2xl font-semibold text-foreground">Čestitamo!</p>
+          <p className="text-foreground text-2xl font-semibold">Čestitamo!</p>
           <p className="text-muted-foreground">Završili ste sva pitanja.</p>
         </div>
-        <Button type="button" onClick={() => setIndex(0)} size="lg" className="mt-2">
+        <Button
+          type="button"
+          onClick={() => setIndex(0)}
+          size="lg"
+          className="mt-2"
+        >
           Počni iznova
         </Button>
       </div>
