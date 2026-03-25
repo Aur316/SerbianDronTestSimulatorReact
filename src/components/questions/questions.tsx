@@ -1,3 +1,5 @@
+import { useEffect, useRef, useState } from "react"
+
 import {
   QuestionForm,
   type QuestionFormHandle,
@@ -6,12 +8,10 @@ import { QuestionLayout } from "@/components/question-layout/question-layout"
 import { Button } from "@/components/ui/button"
 import type { Question } from "@/types/question"
 import { INDEX_STORAGE_KEY } from "@/utils/constants"
-import { readStoredIndex } from "@/utils/helpers"
+import { readStoredIndex, shuffleAnswersOrder } from "@/utils/helpers"
 import testData from "@/utils/test.json"
 
-import { useEffect, useRef, useState } from "react"
-
-const questions = testData.questions as Array<Question>
+const questions = shuffleAnswersOrder(testData.questions as Array<Question>)
 
 export const Questions = () => {
   const [index, setIndex] = useState(() => readStoredIndex(questions.length))
